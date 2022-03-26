@@ -29,7 +29,7 @@ export default class TextEditor extends Component {
       wrapperClassName="wrapperClassName"
       editorClassName="editorClassName"
       onEditorStateChange={this.onEditorStateChange}
-    />;
+    />
         <textarea disabled value={
             draftjsToHtml((convertToRaw(editorState.getCurrentContent())))
         }></textarea>
