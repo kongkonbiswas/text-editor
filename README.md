@@ -2,6 +2,8 @@
 
  ### [Live view](https://text-editor-site-by-kongkon.netlify.app/).
 
+Update all
+
 ## Features
 Configurable toolbar with option to add/remove controls.
 Option to change the order of the controls in the toolbar.
